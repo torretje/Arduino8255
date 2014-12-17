@@ -2,7 +2,7 @@ Arduino8255
 ===========
 
 Arduino interfacing a pio 8255.
-Check for more information http://www.torretje.nl/Projects/8255
+Check for more information <br/>http://www.torretje.nl/Projects/8255
 
 Expand arduino with this golden oldie 82c55a.
 
