@@ -26,7 +26,7 @@ int a0 = A0;<br/>
 int a1 = A1;<br/>
 
 ###Usage
-Copy the .ino file into the Aruino editor.
+Copy the p8255.ino file into the Aruino editor.
 With setport you can write a byte to one of the 8255 ports A,B or C in one call.<br/>
 And with setPin you can write a bit to one of the 8255 24 pins.<br/>
 See below code an code example.
